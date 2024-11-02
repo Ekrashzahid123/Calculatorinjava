@@ -35,9 +35,5 @@ public static void main(String[] args) {
    System.out.println("The Sum of two number is as:"+ mul(number1, number2));
    System.out.println("The Sum of two number is as:"+ div(number1, number2));
    System.out.println("The Sum of two number is as:"+ sub(number1, number2));
-   
-   
-
-}
-
+   }
 }
