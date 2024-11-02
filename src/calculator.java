@@ -32,8 +32,8 @@ public static void main(String[] args) {
    System.err.println("Enter the number2");
    int number2=input.nextInt();
    System.out.println("The Sum of two number is as:"+ add(number1, number2));
-   System.out.println("The Sum of two number is as:"+ mul(number1, number2));
-   System.out.println("The Sum of two number is as:"+ div(number1, number2));
-   System.out.println("The Sum of two number is as:"+ sub(number1, number2));
+   System.out.println("The MUL of two number is as:"+ mul(number1, number2));
+   System.out.println("The Div of two number is as:"+ div(number1, number2));
+   System.out.println("The Sub of two number is as:"+ sub(number1, number2));
    }
 }
